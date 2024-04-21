@@ -29,7 +29,7 @@
 
 # Coverage for the SearchComponent and ApiService
 #### Search Component
-
+![search-componenet](https://github.com/Akarshya/fyle-internship-challenge-23/assets/84727936/dfabf22e-1833-434d-a66e-93f26b4a4786)
 
 
 #### API Service
