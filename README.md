@@ -1,4 +1,4 @@
-### Link for the Website: 
+### Link for the Website: https://fyle-internship-challenge-23-ten.vercel.app/
 
 # Steps to check locally:
 
@@ -29,14 +29,15 @@
 
 # Coverage for the SearchComponent and ApiService
 #### Search Component
-![search-componenet](https://github.com/Akarshya/fyle-internship-challenge-23/assets/84727936/dfabf22e-1833-434d-a66e-93f26b4a4786)
+![search-componenet](https://github.com/Akarshya/fyle-internship-challenge-23/assets/84727936/586020b4-1378-4c29-b98d-fad462c96c5a)
 
 
 #### API Service
-
+![services](https://github.com/Akarshya/fyle-internship-challenge-23/assets/84727936/dd350598-d9ed-48a6-9564-88f62c9e66e2)
 
 
 #### Caching
+![cached](https://github.com/Akarshya/fyle-internship-challenge-23/assets/84727936/39ba5fe7-ffff-41f4-b49b-b2f208b1ed28)
 
 
 
@@ -46,9 +47,11 @@
 * Download Code Coverage Report for the SearchComponent and ApiService as GitHub Artifacts
 
 #### Full Unit Test
+![fullunittest](https://github.com/Akarshya/fyle-internship-challenge-23/assets/84727936/3414847c-221c-4715-817c-7ec7213dee81)
 
 
 #### Code Coverage as Github Artifacts for SearchComponent and ApiService
+![unit_test](https://github.com/Akarshya/fyle-internship-challenge-23/assets/84727936/def8ae15-722f-4ff8-bff0-b7a17c15f78d)
 
 
 
