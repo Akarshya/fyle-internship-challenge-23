@@ -1,0 +1,32 @@
+name: Complete Unit Tests
+
+on:
+  push:
+    branches:
+      - "*"
+
+jobs:
+  full-unit-tests:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run tests with code coverage
+        run: |
+          npm run test -- --code-coverage
+
+      - name: Upload coverage reports
+        uses: actions/upload-artifact@v2
+        with:
+          name: coverage
+          path: coverage
